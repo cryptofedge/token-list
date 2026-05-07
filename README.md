@@ -1,4 +1,4 @@
-# FEDGE 2.O Token List
+﻿# FEDGE 2.O Token List
 
 Official token registry for the FEDGE 2.O ecosystem by Rafael Fellito Rodriguez and Eclat Universe.
 
@@ -12,7 +12,7 @@ This repository maintains the verified list of tokens associated with the FEDGE 
 
 ### FEDGE 2.O | Powered by Rafael Fellito Rodriguez and Eclat Universe
 
-**© 2026 FEDGE 2.O. All rights reserved.**
+**Â© 2026 FEDGE 2.O. All rights reserved.**
 
 This project is part of the FEDGE 2.O ecosystem and is protected under full intellectual property rights reserved by Rafael Fellito Rodriguez and Eclat Universe.
 
@@ -25,11 +25,11 @@ This project is part of the FEDGE 2.O ecosystem and is protected under full inte
 
 ### Key Rights
 
-✓ **All intellectual property retained**
-✓ **Reproduction prohibited without permission**
-✓ **Distribution rights reserved**
-✓ **Derivative works not permitted**
-✓ **Commercial use requires authorization**
+âœ“ **All intellectual property retained**
+âœ“ **Reproduction prohibited without permission**
+âœ“ **Distribution rights reserved**
+âœ“ **Derivative works not permitted**
+âœ“ **Commercial use requires authorization**
 
 ### Attribution
 
@@ -46,3 +46,4 @@ Email: **cryptofedge@gmail.com**
 ---
 
 **Learn more:** [Full License](LICENSE)
+
