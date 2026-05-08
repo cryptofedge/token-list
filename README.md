@@ -1,4 +1,4 @@
-﻿# FEDGE 2.O Token List
+﻿﻿# FEDGE 2.O Token List
 
 Official token registry for the FEDGE 2.O ecosystem by Rafael Fellito Rodriguez and Eclat Universe.
 
